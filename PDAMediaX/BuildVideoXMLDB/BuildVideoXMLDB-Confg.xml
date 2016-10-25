@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Video>
+  <Catalog>
+    <LibraryFile>D:\PDAMediaX\HomeWebSite\feeddata\xml\VideoXMLDB-Library.xml</LibraryFile>
+    <SummaryFile>D:\PDAMediaX\HomeWebSite\feeddata\xml\VideoXMLDB-Summary.xml</SummaryFile>
+  </Catalog>
+  <Movies>
+    <Catagory Genre="Action Adventure">
+      <ScanFolder>\\pda-ns0sft\Media\Video\Tivo-Mce\Movies\Action Adventure</ScanFolder>
+      <ScanFolder>\\pda-ns0tivo\Media\Video\Tivo-Mce\Movies\Action Adventure</ScanFolder>
+      <ScanFolder>\\PDA-NS2MCE\Media\Video\Mce\Movies\Action Adventure</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\Network TV\Movies\Action Adventure</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\SC101-Movies\Video\Movies\Action Adventure</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\Action Adventure</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\HD Digital\Movies\Action Adventure</ScanFolder>
+      <ScanFolder>\\PDA-HDDIRECTV\Media\HD Digital\Movies\Action Adventure</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Movies\Action Adventure</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mpeg\Movies\Action Adventure</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Animated">
+      <ScanFolder>\\pda-ns0sft\Media\Video\Tivo-Mce\Movies\Animated</ScanFolder>
+      <ScanFolder>\\pda-ns0tivo\Media\Video\Tivo-Mce\Movies\Animated</ScanFolder>
+      <ScanFolder>\\PDA-NS2MCE\Media\Video\Mce\Movies\Animated</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\Network TV\Movies\Animated</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\SC101-Movies\Video\Movies\Animated</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\Animated</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\HD Digital\Movies\Animated</ScanFolder>
+      <ScanFolder>\\PDA-HDDIRECTV\Media\HD Digital\Movies\Animated</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Movies\Animated</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mce\VHS\Animation</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mpeg\Movies\Animated</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Biography">
+      <ScanFolder>\\pda-ns0sft\Media\Video\Tivo-Mce\Movies\Biography</ScanFolder>
+      <ScanFolder>\\pda-ns0tivo\Media\Video\Tivo-Mce\Movies\Biography</ScanFolder>
+      <ScanFolder>\\PDA-NS2MCE\Media\Video\Mce\Movies\Biography</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\Network TV\Movies\Biography</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\SC101-Movies\Video\Movies\Biography</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\Biography</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Comedy">
+      <ScanFolder>\\pda-ns0sft\Media\Video\Tivo-Mce\Movies\Comedy</ScanFolder>
+      <ScanFolder>\\pda-ns0tivo\Media\Video\Tivo-Mce\Movies\Comedy</ScanFolder>
+      <ScanFolder>\\PDA-NS2MCE\Media\Video\Mce\Movies\Comedy</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\Network TV\Movies\Comedy</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\SC101-Movies\Video\Movies\Comedy</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\Comedy</ScanFolder>
+      <ScanFolder>\\PDA-HDDIRECTV\Media\HD Digital\Movies\Comedy</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Movies\Comedy</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Crime Drama">
+      <ScanFolder>\\pda-ns0sft\Media\Video\Tivo-Mce\Movies\Crime Drama</ScanFolder>
+      <ScanFolder>\\pda-ns0tivo\Media\Video\Tivo-Mce\Movies\Crime Drama</ScanFolder>
+      <ScanFolder>\\PDA-NS2MCE\Media\Video\Mce\Movies\Crime Drama</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\Network TV\Movies\Crime Drama</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\SC101-Movies\Video\Movies\Crime Drama</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\Crime Drama</ScanFolder>
+      <ScanFolder>\\PDA-HDDIRECTV\Media\HD Digital\Movies\Crime Drama</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Movies\Crime Drama</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Docudrama">
+      <ScanFolder>\\pda-ns0sft\Media\Video\Tivo-Mce\Movies\Docudrama</ScanFolder>
+      <ScanFolder>\\pda-ns0tivo\Media\Video\Tivo-Mce\Movies\Docudrama</ScanFolder>
+      <ScanFolder>\\PDA-NS2MCE\Media\Video\Mce\Movies\Docudrama</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\Network TV\Movies\Docudrama</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\SC101-Movies\Video\Movies\Docudrama</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\Docudrama</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Drama">
+      <ScanFolder>\\pda-ns0sft\Media\Video\Tivo-Mce\Movies\Drama</ScanFolder>
+      <ScanFolder>\\pda-ns0tivo\Media\Video\Tivo-Mce\Movies\Drama</ScanFolder>
+      <ScanFolder>\\PDA-NS2MCE\Media\Video\Mce\Movies\Drama</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\Network TV\Movies\Drama</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\SC101-Movies\Video\Movies\Drama</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\Drama</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\HD Digital\Movies\Drama</ScanFolder>
+      <ScanFolder>\\PDA-HDDIRECTV\Media\HD Digital\Movies\Drama</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Movies\Drama</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Horror">
+      <ScanFolder>\\pda-ns0sft\Media\Video\Tivo-Mce\Movies\Horror</ScanFolder>
+      <ScanFolder>\\pda-ns0tivo\Media\Video\Tivo-Mce\Movies\Horror</ScanFolder>
+      <ScanFolder>\\PDA-NS2MCE\Media\Video\Mce\Movies\Horror</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\Network TV\Movies\Horror</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\SC101-Movies\Video\Movies\Horror</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\Horror</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Movies\Horror</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Martial Arts">
+      <ScanFolder>\\pda-ns0sft\Media\Video\Tivo-Mce\Movies\Martial Arts</ScanFolder>
+      <ScanFolder>\\pda-ns0tivo\Media\Video\Tivo-Mce\Movies\Martial Arts</ScanFolder>
+      <ScanFolder>\\PDA-NS2MCE\Media\Video\Mce\Movies\Martial Arts</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\Network TV\Movies\Martial Arts</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\SC101-Movies\Video\Movies\Martial Arts</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\Martial Arts</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Movies\Martial Arts</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mce\VHS\Martial Arts</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Romance">
+      <ScanFolder>\\pda-ns0sft\Media\Video\Tivo-Mce\Movies\Romance</ScanFolder>
+      <ScanFolder>\\pda-ns0tivo\Media\Video\Tivo-Mce\Movies\Romance</ScanFolder>
+      <ScanFolder>\\PDA-NS2MCE\Media\Video\Mce\Movies\Romance</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\Network TV\Movies\Romance</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\SC101-Movies\Video\Movies\Romance</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\Romance</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Movies\Romance</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Romantic Comedy">
+      <ScanFolder>\\pda-ns0sft\Media\Video\Tivo-Mce\Movies\Romantic Comedy</ScanFolder>
+      <ScanFolder>\\pda-ns0tivo\Media\Video\Tivo-Mce\Movies\Romantic Comedy</ScanFolder>
+      <ScanFolder>\\PDA-NS2MCE\Media\Video\Mce\Movies\Romantic Comedy</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\Network TV\Movies\Romantic Comedy</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\SC101-Movies\Video\Movies\Romantic Comedy</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\Romantic Comedy</ScanFolder>
+      <ScanFolder>\\PDA-HDDIRECTV\Media\HD Digital\Movies\Romantic Comedy</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Movies\Romantic Comedy</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Sci-Fi &amp; Fantasy">
+      <ScanFolder>\\pda-ns0sft\Media\Video\Tivo-Mce\Movies\Sci-Fi &amp; Fantasy</ScanFolder>
+      <ScanFolder>\\pda-ns0tivo\Media\Video\Tivo-Mce\Movies\Sci-Fi &amp; Fantasy</ScanFolder>
+      <ScanFolder>\\PDA-NS2MCE\Media\Video\Mce\Movies\Sci-Fi &amp; Fantasy</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\Network TV\Movies\Sci-Fi &amp; Fantasy</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\SC101-Movies\Video\Movies\Sci-Fi &amp; Fantasy</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\Sci-Fi &amp; Fantasy</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\HD Digital\Movies\Sci-Fi &amp; Fantasy</ScanFolder>
+      <ScanFolder>\\PDA-HDDIRECTV\Media\HD Digital\Movies\Sci-Fi &amp; Fantasy</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Movies\Sci-Fi &amp; Fantasy</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mpeg\Movies\Sci-Fi &amp; Fantasy</ScanFolder>
+   </Catagory>
+    <Catagory Genre="War">
+      <ScanFolder>\\pda-ns0sft\Media\Video\Tivo-Mce\Movies\War</ScanFolder>
+      <ScanFolder>\\pda-ns0tivo\Media\Video\Tivo-Mce\Movies\War</ScanFolder>
+      <ScanFolder>\\PDA-NS2MCE\Media\Video\Mce\Movies\War</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\Network TV\Movies\War</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\SC101-Movies\Video\Movies\War</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\War</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\War</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\War</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Western">
+      <ScanFolder>\\pda-ns0sft\Media\Video\Tivo-Mce\Movies\Western</ScanFolder>
+      <ScanFolder>\\pda-ns0tivo\Media\Video\Tivo-Mce\Movies\Western</ScanFolder>
+      <ScanFolder>\\PDA-NS2MCE\Media\Video\Mce\Movies\Western</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\Network TV\Movies\Western</ScanFolder>
+      <ScanFolder>\\PDA-RECORDER\SC101-Movies\Video\Movies\Western</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Movies\Western</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Movies\Western</ScanFolder>
+   </Catagory>
+  </Movies>
+  <Series>
+    <Catagory Genre="Drama">
+      <ScanFolder>\\pda-ns0mce\Media\Video\Mce\Series\Drama</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Series\Drama</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Series\Drama</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Action Adventure">
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mce\Series\Action Adventure</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Series\Action Adventure</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Animated">
+      <ScanFolder>\\PDA-NS1MCE\Media\Video\Mce\Series\Animated</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Series\Animated</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Series\Animated</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Comedy">
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mce\Series\Comedy</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Series\Comedy</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Horror">
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mce\Series\Horror</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Sci-Fi &amp; Fantasy">
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mce\Series\Sci-Fi &amp; Fantasy</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Series\Sci-Fi &amp; Fantasy</ScanFolder>
+   </Catagory>
+  </Series>
+  <Specials>
+    <Catagory Genre="AE">
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mce\Specials\AE</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Specials\xxx</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Animated">
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mce\Specials\Animated</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Comedy">
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mce\Specials\Comedy</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Docudrama">
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mce\Specials\Docudrama</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Documentry">
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mce\Specials\Documentry</ScanFolder>
+      <ScanFolder>\\PDA-NS0DLINK\Media-1\Video\Mce\Specials\Documentry</ScanFolder>
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\DivX\Specials\Documentry</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Drama">
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mce\Specials\Drama</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Sci-Fi &amp; Fantasy">
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mce\Specials\Sci-Fi &amp; Fantasy</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Sports">
+      <ScanFolder>\\PDA-NS3MCE\Media\Video\Mce\VHS\Sports</ScanFolder>
+   </Catagory>
+  </Specials>
+  <Music>
+    <Catagory Genre="Country">
+      <ScanFolder>\\PDA-NS0SFT\Media\Video\Tivo-Mce\Music\Country</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Dance">
+      <ScanFolder>\\PDA-NS0SFT\Media\Video\Tivo-Mce\Music\Dance</ScanFolder>
+   </Catagory>
+    <Catagory Genre="HipHop">
+      <ScanFolder>\\PDA-NS0SFT\Media\Video\Tivo-Mce\Music\HipHop</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Pop">
+      <ScanFolder>\\PDA-NS0SFT\Media\Video\Tivo-Mce\Music\Pop</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Raggae">
+      <ScanFolder>\\PDA-NS0SFT\Media\Video\Tivo-Mce\Music\Raggae</ScanFolder>
+   </Catagory>
+    <Catagory Genre="RandB">
+      <ScanFolder>\\PDA-NS0SFT\Media\Video\Tivo-Mce\Music\RandB</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Rap">
+      <ScanFolder>\\PDA-NS0SFT\Media\Video\Tivo-Mce\Music\Rap</ScanFolder>
+   </Catagory>
+    <Catagory Genre="Rock">
+      <ScanFolder>\\PDA-NS0SFT\Media\Video\Tivo-Mce\Music\Rock</ScanFolder>
+   </Catagory>
+  </Music>
+</Video>
